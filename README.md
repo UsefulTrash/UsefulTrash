@@ -24,3 +24,4 @@ Add new utility script
 Polish UI layout
 Optimize loop
 Rewrite function Y
+Tweak margin and padding
