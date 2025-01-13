@@ -19,3 +19,4 @@ Update API endpoint
 Clean up codebase
 Change theme color
 Fix bug in feature X
+Fix typo in README
