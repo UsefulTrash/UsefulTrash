@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Improve error handling
 Update API endpoint
 Clean up codebase
+Change theme color
