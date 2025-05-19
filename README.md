@@ -25,3 +25,4 @@ Polish UI layout
 Optimize loop
 Rewrite function Y
 Tweak margin and padding
+Fix broken link
