@@ -28,3 +28,4 @@ Tweak margin and padding
 Fix broken link
 Remove unused imports
 Polish UI layout
+Improve error handling
